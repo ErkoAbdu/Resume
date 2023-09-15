@@ -16,3 +16,7 @@ At this time  I have no projects
 - Subway Operator (2022-2023)
 - Front of House Supervisor (2017-2019)
 - Server (2016-2017)
+
+|My | Projects|
+|----------|--------|
+|
