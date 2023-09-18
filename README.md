@@ -19,6 +19,9 @@ At this time  I have no projects
 - Front of House Supervisor (2017-2019)
 - Server (2016-2017)
 
-|My | Projects|
-|----------|--------|
-|
+|Title | URL | Techonologies |
+|------|-----|---------------|
+|Assignment 1| [Link](https://github.com/ErkoAbdu/http5111/tree/c5a909816d99948c6296c010802eee66e9460de6/JS/Assignment%201/JS-Assignment-1-GroupLogin-23-Erko%20Abdurahman) | HTML, JS| 
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/erko-abdurahman-b74186164/)
